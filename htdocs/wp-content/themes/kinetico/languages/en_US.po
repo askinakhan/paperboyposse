@@ -1,0 +1,1366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kinetico e-Commerce Theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-07-13 06:48:57+0000\n"
+"Last-Translator: admin <rafael.angeline@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:9
+#@ kinetico
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+#: 404.php:26
+#@ kinetico
+msgid "404... Sorry, we can't find the content you're looking for..."
+msgstr ""
+
+#: archive.php:31
+#: author.php:34
+#: category.php:31
+#: index.php:31
+#: search.php:31
+#: single.php:34
+#: tag.php:31
+#@ kinetico
+msgid "Written by"
+msgstr ""
+
+#: archive.php:31
+#: author.php:34
+#: category.php:31
+#: index.php:31
+#: search.php:31
+#: single.php:34
+#: tag.php:31
+#@ kinetico
+msgid "in"
+msgstr ""
+
+#: archive.php:36
+#: author.php:39
+#: category.php:36
+#: index.php:36
+#: search.php:36
+#: tag.php:36
+#: woocommerce/loop/add-to-cart.php:13
+#: woocommerce/loop/add-to-cart.php:29
+#@ kinetico
+msgid "Read More"
+msgstr ""
+
+#: archive.php:47
+#: author.php:50
+#: category.php:47
+#: index.php:47
+#: search.php:47
+#: tag.php:47
+#@ kinetico
+msgid "None posts were found..."
+msgstr ""
+
+#: comments.php:14
+#@ kinetico
+msgid "AUTHOR"
+msgstr ""
+
+#: comments.php:31
+#@ kinetico
+msgid "Your comment are waiting for approval! Just wait..."
+msgstr ""
+
+#: comments.php:47
+#, php-format
+#@ kinetico
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:87
+#: comments.php:88
+#: comments.php:89
+#: comments.php:126
+#@ kinetico
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:93
+#: comments.php:94
+#: comments.php:95
+#: comments.php:134
+#@ kinetico
+msgid "E-mail (will not be published)"
+msgstr ""
+
+#: comments.php:98
+#: comments.php:99
+#: comments.php:100
+#@ kinetico
+msgid "Website (optional)"
+msgstr ""
+
+#: comments.php:107
+#: comments.php:108
+#: comments.php:142
+#@ kinetico
+msgid "Comments (required)"
+msgstr ""
+
+#: comments.php:109
+#@ kinetico
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:110
+#, php-format
+#@ kinetico
+msgid "Reply to %s"
+msgstr ""
+
+#: comments.php:111
+#@ kinetico
+msgid " - Cancel Reply"
+msgstr ""
+
+#: comments.php:112
+#@ kinetico
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:127
+#@ kinetico
+msgid "Please, type your name."
+msgstr ""
+
+#: comments.php:135
+#@ kinetico
+msgid "Please, type your email."
+msgstr ""
+
+#: comments.php:143
+#@ kinetico
+msgid "Please, type your comment."
+msgstr ""
+
+#: contact.php:11
+#: woocommerce/single-product-reviews.php:79
+#: wpts/shortcodes/custom_shortcodes.php:316
+#@ kinetico
+msgid "Name"
+msgstr ""
+
+#: contact.php:11
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/single-product-reviews.php:81
+#: wpts/shortcodes/custom_shortcodes.php:317
+#@ kinetico
+msgid "Email"
+msgstr ""
+
+#: contact.php:11
+#: wpts/shortcodes/custom_shortcodes.php:318
+#@ kinetico
+msgid "Your comments..."
+msgstr ""
+
+#: contact.php:25
+#@ kinetico
+msgid "New message received from website contact form"
+msgstr ""
+
+#: contact.php:48
+#@ kinetico
+msgid "Form succesfully sent!"
+msgstr ""
+
+#: contact.php:50
+#@ kinetico
+msgid "Server error. Please, try again later"
+msgstr ""
+
+#: contact.php:53
+#@ kinetico
+msgid "Non valid Email!"
+msgstr ""
+
+#: contact.php:56
+#@ kinetico
+msgid "Missing fields!"
+msgstr ""
+
+#: functions.php:206
+#@ atom
+msgid "Archive by category \""
+msgstr ""
+
+#: functions.php:259
+#@ atom
+msgid "Search results for \""
+msgstr ""
+
+#: functions.php:262
+#@ atom
+msgid "Posts tagged \""
+msgstr ""
+
+#: functions.php:267
+#@ atom
+msgid "Articles posted by "
+msgstr ""
+
+#: functions.php:270
+#@ atom
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:378
+#: header.php:67
+#@ woothemes
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:378
+#: header.php:67
+#, php-format
+#@ woothemes
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: page_contact.php:52
+#@ kinetico
+msgid "SEND US A MESSAGE"
+msgstr ""
+
+#: search.php:5
+#, php-format
+#@ kinetiko
+msgid "Results for \"%s\""
+msgstr ""
+
+#: searchform.php:3
+#: searchform.php:9
+#: woocommerce/woocommerce-template.php:76
+#: woocommerce/woocommerce-template.php:83
+#: woocommerce/woocommerce-template.php:121
+#: woocommerce/woocommerce-template.php:128
+#@ kinetico
+msgid "Type and Press Enter"
+msgstr ""
+
+#: woocommerce/cart/cart.php:17
+#@ kinetico
+msgid "Item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:18
+#@ kinetico
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:19
+#: woocommerce/checkout/form-pay.php:13
+#: woocommerce/checkout/review-order.php:20
+#@ kinetico
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:20
+#: woocommerce/myaccount/my-orders.php:29
+#@ kinetico
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36
+#@ kinetico
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:50
+#@ kinetico
+msgid "Available on backorder."
+msgstr ""
+
+#: woocommerce/cart/cart.php:100
+#@ kinetico
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:101
+#: woocommerce/checkout/form-coupon.php:19
+#@ kinetico
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:110
+#@ kinetico
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+#@ kinetico
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:12
+#@ kinetico
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/empty.php:8
+#@ kinetico
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/empty.php:12
+#@ kinetico
+msgid "&larr; Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:17
+#@ kinetico
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:20
+#@ kinetico
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:40
+#@ kinetico
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+#@ kinetico
+msgid "State"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:59
+#@ kinetico
+msgid "Postcode/Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:59
+#@ kinetico
+msgid "Postcode"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:62
+#@ kinetico
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/cart/totals.php:16
+#@ kinetico
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/totals.php:21
+#: woocommerce/checkout/review-order.php:53
+#@ kinetico
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/totals.php:28
+#: woocommerce/checkout/review-order.php:60
+#@ kinetico
+msgid "Cart Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:28
+#: woocommerce/cart/totals.php:193
+#@ kinetico
+msgid "[Remove]"
+msgstr ""
+
+#: woocommerce/cart/totals.php:37
+#: woocommerce/checkout/review-order.php:71
+#@ kinetico
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/totals.php:100
+#@ kinetico
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/totals.php:102
+#: woocommerce/checkout/review-order.php:137
+#@ kinetico
+msgid "Sorry, it seems that there are no available shipping methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/cart/totals.php:129
+#: woocommerce/cart/totals.php:157
+#: woocommerce/checkout/review-order.php:162
+#: woocommerce/checkout/review-order.php:182
+#@ kinetico
+msgid "incl."
+msgstr ""
+
+#: woocommerce/cart/totals.php:143
+#@ kinetico
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/totals.php:172
+#: woocommerce/cart/totals.php:182
+#@ kinetico
+msgid "Tax"
+msgstr ""
+
+#: woocommerce/cart/totals.php:183
+#: woocommerce/checkout/review-order.php:204
+#@ kinetico
+msgctxt "Relating to tax"
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/cart/totals.php:193
+#: woocommerce/checkout/review-order.php:214
+#@ kinetico
+msgid "Order Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:200
+#: woocommerce/checkout/review-order.php:223
+#@ kinetico
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/totals.php:217
+#, php-format
+#@ kinetico
+msgid "(taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:219
+#, php-format
+#@ kinetico
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/totals.php:228
+#@ kinetico
+msgid "No shipping methods were found; please recalculate your shipping and enter your state/county and zip/postcode to ensure their are no other available methods for your location."
+msgstr ""
+
+#: woocommerce/cart/totals.php:235
+#, php-format
+#@ kinetico
+msgid "Sorry, it seems that there are no available shipping methods for your location (%s)."
+msgstr ""
+
+#: woocommerce/cart/totals.php:237
+#@ kinetico
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:9
+#@ kinetico
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:13
+#@ kinetico
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:10
+#@ kinetico
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:14
+#: woocommerce/myaccount/form-edit-address.php:21
+#: woocommerce/myaccount/my-address.php:20
+#@ kinetico
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:35
+#@ kinetico
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:44
+#@ kinetico
+msgid "Create an account by entering the information below. If you are a returning customer please login with your username at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:9
+#@ kinetico
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:7
+#@ kinetico
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:10
+#@ kinetico
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:15
+#@ kinetico
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:13
+#@ kinetico
+msgid "Already have an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:17
+#@ kinetico
+msgid "Login to your Account"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:19
+#@ kinetico
+msgid "If you have shopped with us before, please enter your username and password in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:12
+#: woocommerce/checkout/review-order.php:19
+#@ kinetico
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:14
+#: woocommerce/checkout/review-order.php:21
+#@ kinetico
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:70
+#@ kinetico
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+#@ kinetico
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:27
+#@ kinetico
+msgid "Ship to billing address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+#: woocommerce/myaccount/form-edit-address.php:21
+#: woocommerce/myaccount/my-address.php:51
+#@ kinetico
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:54
+#: woocommerce/single-product/tabs/tab-attributes.php:7
+#@ kinetico
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:14
+#@ kinetico
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:135
+#@ kinetico
+msgid "Please fill in your details above to see available shipping methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:172
+#@ kinetico
+msgid "Order Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:238
+#@ kinetico
+msgid "Payment Method"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:273
+#@ kinetico
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:275
+#@ kinetico
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:286
+#@ kinetico
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:286
+#@ kinetico
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:292
+#@ kinetico
+msgid "Place Order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:296
+#@ kinetico
+msgid "I accept the"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:296
+#@ kinetico
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:13
+#@ kinetico
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:17
+#@ kinetico
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:19
+#@ kinetico
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#: woocommerce/myaccount/my-orders.php:57
+#@ kinetico
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:26
+#@ kinetico
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+#: woocommerce/checkout/thankyou.php:65
+#@ kinetico
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+#@ kinetico
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#@ kinetico
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+#@ kinetico
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49
+#@ kinetico
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:21
+#@ kinetico
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:25
+#@ kinetico
+msgid "View options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:33
+#: woocommerce/single-product/add-to-cart/grouped.php:43
+#: woocommerce/single-product/add-to-cart/grouped.php:73
+#: woocommerce/single-product/add-to-cart/simple.php:53
+#: woocommerce/single-product/add-to-cart/variable.php:60
+#@ kinetico
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:13
+#: woocommerce/single-product-reviews.php:54
+#@ kinetico
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:14
+#: woocommerce/single-product-reviews.php:53
+#@ kinetico
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: woocommerce/loop/sorting.php:10
+#@ kinetico
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/sorting.php:11
+#@ kinetico
+msgid "Sort alphabetically"
+msgstr ""
+
+#: woocommerce/loop/sorting.php:12
+#@ kinetico
+msgid "Sort by most recent"
+msgstr ""
+
+#: woocommerce/loop/sorting.php:13
+#@ kinetico
+msgid "Sort by price"
+msgstr ""
+
+#: woocommerce/loop-shop.php:64
+#@ kinetico
+msgid "No products found which match your selection."
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:14
+#@ kinetico
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:18
+#@ kinetico
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:23
+#@ kinetico
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:36
+#@ kinetico
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:15
+#: woocommerce/myaccount/form-login.php:29
+#: woocommerce/shop/form-login.php:25
+#@ kinetico
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:18
+#: woocommerce/myaccount/form-login.php:44
+#: woocommerce/shop/form-login.php:14
+#@ kinetico
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:22
+#: woocommerce/myaccount/form-login.php:54
+#: woocommerce/shop/form-login.php:18
+#@ kinetico
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:30
+#: woocommerce/shop/form-login.php:27
+#@ kinetico
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:40
+#: woocommerce/myaccount/form-login.php:68
+#@ kinetico
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:58
+#@ kinetico
+msgid "Re-enter password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:11
+#, php-format
+#@ kinetico
+msgid "Hello, <strong>%s</strong>. From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">change your password</a>."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:16
+#@ kinetico
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#@ kinetico
+msgid " download Remaining"
+msgid_plural " downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-account.php:24
+#@ kinetico
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:27
+#@ kinetico
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:28
+#@ kinetico
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:21
+#: woocommerce/myaccount/my-address.php:52
+#@ kinetico
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:39
+#@ kinetico
+msgid "You have not set up a billing address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:70
+#@ kinetico
+msgid "You have not set up a shipping address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:27
+#@ kinetico
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:28
+#@ kinetico
+msgid "Ship to"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:30
+#@ kinetico
+msgid "Status"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:51
+#@ kinetico
+msgid "Click to cancel this order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:51
+#@ kinetico
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:60
+#@ kinetico
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:72
+#@ kinetico
+msgid "You have no recent orders."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:38
+#@ kinetico
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:22
+#@ kinetico
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+#@ kinetico
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:11
+#@ kinetico
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:14
+#@ kinetico
+msgid "Category:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:16
+#@ kinetico
+msgid "Tags:"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:22
+#@ kinetico
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:31
+#@ kinetico
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/related.php:12
+#@ kinetico
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:18
+#@ kinetico
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:22
+#@ kinetico
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:25
+#@ kinetico
+msgid "Rating by"
+msgstr ""
+
+#: woocommerce/single-product/review.php:25
+#@ kinetico
+msgid "on"
+msgstr ""
+
+#: woocommerce/single-product/review.php:25
+#@ kinetico
+msgid "M jS Y"
+msgstr ""
+
+#: woocommerce/single-product/tabs/tab-description.php:4
+#@ kinetico
+msgid "Description"
+msgstr ""
+
+#: woocommerce/single-product/tabs/tab-reviews.php:2
+#: woocommerce/single-product-reviews.php:37
+#@ kinetico
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:11
+#@ kinetico
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:31
+#, php-format
+#@ kinetico
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:60
+#@ kinetico
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#@ kinetico
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#@ kinetico
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+#@ kinetico
+msgid "Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+#@ kinetico
+msgid "Rate..."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+#@ kinetico
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+#@ kinetico
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+#@ kinetico
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+#@ kinetico
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+#@ kinetico
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+#@ kinetico
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/woocommerce-template.php:12
+#@ kinetico
+msgid "Search Results:"
+msgstr ""
+
+#: woocommerce/woocommerce-template.php:13
+#@ kinetico
+msgid "Page"
+msgstr ""
+
+#: woocommerce/woocommerce-template.php:58
+#@ kinetico
+msgid "No product categories exist."
+msgstr ""
+
+#: woocommerce/woocommerce-template.php:62
+#@ kinetico
+msgid "View Categories"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:10
+#@ default
+msgctxt "post type general name"
+msgid "Projects"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:11
+#@ default
+msgctxt "post type singular name"
+msgid "Project"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:12
+#@ default
+msgctxt "project"
+msgid "New Project"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:13
+#@ default
+msgid "Add New Project"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:14
+#@ default
+msgid "Edit Project"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:15
+#@ default
+msgid "New Project"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:16
+#@ default
+msgid "View Project"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:17
+#@ default
+msgid "Search Projects"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:18
+#@ default
+msgid "No projects found"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:19
+#@ default
+msgid "No projects found in Trash"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:44
+#@ default
+msgctxt "taxonomy general name"
+msgid "Filters"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:45
+#@ default
+msgctxt "taxonomy singular name"
+msgid "Filter"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:46
+#@ default
+msgid "Search Filters"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:47
+#@ default
+msgid "All Filters"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:48
+#@ default
+msgid "Parent Filter"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:49
+#@ default
+msgid "Parent Filter:"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:50
+#@ default
+msgid "Edit Filters"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:51
+#@ default
+msgid "Update Filter"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:52
+#@ default
+msgid "Add New Filter"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:53
+#@ default
+msgid "New Filter Name"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:66
+#@ default
+msgctxt "taxonomy general name"
+msgid "Portfolios"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:67
+#@ default
+msgctxt "taxonomy singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:68
+#@ default
+msgid "Search Portfolios"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:69
+#@ default
+msgid "All Portfolios"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:70
+#@ default
+msgid "Parent Portfolio"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:71
+#@ default
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:72
+#@ default
+msgid "Edit Portfolios"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:73
+#@ default
+msgid "Update Portfolio"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:74
+#@ default
+msgid "Add New Portfolio"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:75
+#@ default
+msgid "New Portfolio Name"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:97
+#, php-format
+#@ default
+msgid "Project updated. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:98
+#@ default
+msgid "Custom field updated."
+msgstr ""
+
+#: wpts/inc/_portfolio.php:99
+#@ default
+msgid "Custom field deleted."
+msgstr ""
+
+#: wpts/inc/_portfolio.php:100
+#@ default
+msgid "Project updated."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: wpts/inc/_portfolio.php:102
+#, php-format
+#@ default
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:103
+#, php-format
+#@ default
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:104
+#@ default
+msgid "Project saved."
+msgstr ""
+
+#: wpts/inc/_portfolio.php:105
+#, php-format
+#@ default
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:106
+#, php-format
+#@ default
+msgid "Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview project</a>"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:108
+#@ default
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: wpts/inc/_portfolio.php:109
+#, php-format
+#@ default
+msgid "Project draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: wpts/shortcodes/custom_shortcodes.php:319
+#@ kinetico
+msgid "Send Message"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:804
+#, php-format
+#@ atom
+msgid "about %d seconds ago"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:805
+#@ atom
+msgid "about a minute ago"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:806
+#, php-format
+#@ atom
+msgid "about %d minutes ago"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:807
+#@ atom
+msgid "about an hour ago"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:808
+#, php-format
+#@ atom
+msgid "about %d hours ago"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:809
+#@ atom
+msgid "about a day ago"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:810
+#, php-format
+#@ atom
+msgid "about %d days ago"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:811
+#@ atom
+msgid "view tweet on twitter"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:1467
+#: wpts/shortcodes/shortcodes.php:1955
+#: wpts/shortcodes/shortcodes.php:1960
+#: wpts/shortcodes/shortcodes.php:1965
+#@ wpts
+#@ default
+msgid "Top"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:1895
+#@ default
+msgid "RSS"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:1934
+#, php-format
+#@ default
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:1953
+#@ default
+msgid "Pages"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:1958
+#@ default
+msgid "Category Archives"
+msgstr ""
+
+#: wpts/shortcodes/shortcodes.php:1963
+#@ default
+msgid "Blog Posts"
+msgstr ""
+
+#: wpts/shortcodes/tinymce/dialog.php:21
+#@ wpts
+msgid "Shortcode Options"
+msgstr ""
+
